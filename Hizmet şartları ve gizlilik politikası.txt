@@ -1,0 +1,563 @@
+{\rtf1\ansi\ansicpg1254\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset204 PTSans-Bold;\f1\froman\fcharset0 Times-Roman;\f2\fswiss\fcharset0 Helvetica;
+\f3\froman\fcharset0 TimesNewRomanPSMT;}
+{\colortbl;\red255\green255\blue255;\red23\green90\blue226;\red0\green0\blue0;\red25\green25\blue25;
+}
+{\*\expandedcolortbl;;\cssrgb\c10196\c45098\c90980;\cssrgb\c0\c0\c0;\cssrgb\c12941\c12941\c12941;
+}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+
+\itap1\trowd \taflags4 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil \tapadt360 \tapadb360 
+\clvertalc \clshdrawnil \clwWidth29220\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt1120 \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f0\b\fs50\fsmilli25333 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Hizmet \uc0\u351 artlar\u305  ve gizlilik politikas\u305 \'a0\strokec2 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\b0\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 . KABUL VE ONAY\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 Bu Hizmet \uc0\u350 artlar\u305  ("\u350 artlar"), SudokuCrack uygulamas\u305 n\u305  ("Uygulama") indirerek, kurarak veya kullanarak, bu \u351 artlar\u305  kabul etmi\u351  olursunuz. Uygulamay\u305  kullanmaya devam etmeniz, bu \u351 artlara ba\u287 l\u305  kalaca\u287 \u305 n\u305 z\u305  g\'f6sterir.\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 E\uc0\u287 er bu \u351 artlar\u305  kabul etmiyorsan\u305 z, l\'fctfen uygulamay\u305  kullanmay\u305 n ve cihaz\u305 n\u305 zdan kald\u305 r\u305 n.\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\fs29\fsmilli14667 \cf4 \strokec4 \uc0\u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 
+\f1 \AppleTypeServices\AppleTypeServicesF65539 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 2. UYGULAMANIN KULLANIMI\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 SudokuCrack, e\uc0\u287 lence ama\'e7l\u305  bir Sudoku oyun uygulamas\u305 d\u305 r. Uygulamay\u305  yaln\u305 zca yasal ama\'e7lar i\'e7in kullanabilirsiniz.\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 A\uc0\u351 a\u287 \u305 daki eylemler yasakt\u305 r:\
+\'95 Uygulaman\uc0\u305 n i\'e7eri\u287 ini kopyalamak, de\u287 i\u351 tirmek veya da\u287 \u305 tmak\
+\'95 Uygulamay\uc0\u305  tersine m\'fchendislik yapmak veya \'e7\u305 karmak\
+\'95 Uygulamay\uc0\u305  ba\u351 ka yaz\u305 l\u305 mlarla birle\u351 tirmek veya entegre etmek\
+\'95 Uygulamay\uc0\u305  ticari ama\'e7larla kullanmak\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\fs29\fsmilli14667 \cf4 \strokec4 \uc0\u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 
+\f1 \AppleTypeServices\AppleTypeServicesF65539 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 3. PREMIUM \'dcYEL\uc0\u304 K\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 SudokuCrack, iste\uc0\u287 e ba\u287 l\u305  bir Premium \'fcyelik sunmaktad\u305 r. Premium \'fcyelik:\
+\'95 Ayl\uc0\u305 k veya y\u305 ll\u305 k abonelik se\'e7enekleri sunar\
+\'95 Reklams\uc0\u305 z deneyim sa\u287 lar\
+\'95 \uc0\u304 stedi\u287 iniz zaman iptal edilebilir\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 \'dcyelik \'fccretleri, App Store \'fczerinden otomatik olarak yenilenir. \uc0\u304 ptal etmedi\u287 iniz s\'fcrece otomatik yenileme devam eder.\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\fs29\fsmilli14667 \cf4 \strokec4 \uc0\u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 
+\f1 \AppleTypeServices\AppleTypeServicesF65539 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 4. \uc0\u304 ADE POL\u304 T\u304 KASI\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 \'dcyelik \'fccretleri, Apple App Store'un iade politikas\uc0\u305 na tabidir. \u304 ade talepleri do\u287 rudan Apple'a y\'f6nlendirilmelidir.\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 Uygulama i\'e7i sat\uc0\u305 n al\u305 mlar i\'e7in standart iade s\'fcresi, sat\u305 n alma tarihinden itibaren 14 g\'fcnd\'fcr.\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\fs29\fsmilli14667 \cf4 \strokec4 \uc0\u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 
+\f1 \AppleTypeServices\AppleTypeServicesF65539 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 5. F\uc0\u304 KR\u304  M\'dcLK\u304 YET\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 SudokuCrack uygulamas\uc0\u305  ve t\'fcm i\'e7eri\u287 i, telif hakk\u305  ve di\u287 er fikri m\'fclkiyet yasalar\u305 yla korunmaktad\u305 r. T\'fcm haklar sakl\u305 d\u305 r.\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 Uygulaman\uc0\u305 n herhangi bir b\'f6l\'fcm\'fcn\'fc izinsiz kopyalayamaz, da\u287 \u305 tamaz veya kullanamazs\u305 n\u305 z.\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\fs29\fsmilli14667 \cf4 \strokec4 \uc0\u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 
+\f1 \AppleTypeServices\AppleTypeServicesF65539 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 6. SORUMLULUK REDD\uc0\u304 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 Uygulama "oldu\uc0\u287 u gibi" sunulmaktad\u305 r. Herhangi bir garanti verilmemektedir. Uygulaman\u305 n kullan\u305 m\u305 ndan kaynaklanan herhangi bir zarardan sorumlu de\u287 iliz.\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 Uygulama, veri kayb\uc0\u305  veya kesinti durumlar\u305 nda sorumluluk kabul etmez.\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\fs29\fsmilli14667 \cf4 \strokec4 \uc0\u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 
+\f1 \AppleTypeServices\AppleTypeServicesF65539 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 7. DE\uc0\u286 \u304 \u350 \u304 KL\u304 KLER\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 Bu Hizmet \uc0\u350 artlar\u305 n\u305  istedi\u287 imiz zaman de\u287 i\u351 tirme hakk\u305 n\u305  sakl\u305  tutar\u305 z. De\u287 i\u351 iklikler y\'fcr\'fcrl\'fc\u287 e girdi\u287 inde, uygulamay\u305  kullanmaya devam etmeniz yeni \u351 artlar\u305  kabul etti\u287 iniz anlam\u305 na gelir.\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 \'d6nemli de\uc0\u287 i\u351 iklikler i\'e7in bildirim g\'f6nderebiliriz.\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\fs29\fsmilli14667 \cf4 \strokec4 \uc0\u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 
+\f1 \AppleTypeServices\AppleTypeServicesF65539 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 8. \uc0\u304 LET\u304 \u350 \u304 M\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 Bu Hizmet \uc0\u350 artlar\u305  ile ilgili sorular\u305 n\u305 z i\'e7in l\'fctfen bizimle ileti\u351 ime ge\'e7in:\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 E-posta: support@sudokucrack.com\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\fs29\fsmilli14667 \cf4 \strokec4 \uc0\u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 
+\f1 \AppleTypeServices\AppleTypeServicesF65539 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 \'a9 2025 SudokuCrack. T\'fcm haklar\uc0\u305  sakl\u305 d\u305 r.\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\
+\cell \lastrow\row
+\pard\pardeftab720\partightenfactor0
+\cf0 \
+
+\itap1\trowd \taflags4 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil \tapadt360 \tapadb360 
+\clvertalc \clshdrawnil \clwWidth29220\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f0\b\fs24 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \strokec2 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\fs90\fsmilli45333 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \strokec3 Gizlilik politikas\uc0\u305 \'a0\strokec2 \'a0\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\b0\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 1. G\uc0\u304 ZL\u304 L\u304 K TAAHH\'dcD\'dcM\'dcZ\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 SudokuCrack olarak, kullan\uc0\u305 c\u305 lar\u305 m\u305 z\u305 n gizlili\u287 ini korumaya kararl\u305 y\u305 z. Bu Gizlilik Politikas\u305 , uygulamay\u305  kullan\u305 rken hangi bilgileri toplad\u305 \u287 \u305 m\u305 z\u305 , nas\u305 l kulland\u305 \u287 \u305 m\u305 z\u305  ve korudu\u287 umuzu a\'e7\u305 klar.\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\fs29\fsmilli14667 \cf4 \strokec4 \uc0\u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 
+\f1 \AppleTypeServices\AppleTypeServicesF65539 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 2. TOPLANAN B\uc0\u304 LG\u304 LER\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 SudokuCrack, a\uc0\u351 a\u287 \u305 daki bilgileri toplayabilir:\
+1\
+\'95 Oyun \uc0\u304 statistikleri: Tamamlanan oyun say\u305 s\u305 , ipucu kullan\u305 m\u305  gibi yerel istatistikler (yaln\u305 zca cihaz\u305 n\u305 zda saklan\u305 r)\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 \'95 Premium \'dcyelik Bilgileri: App Store \'fczerinden i\uc0\u351 lenen abonelik bilgileri\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 \'95 Kullan\uc0\u305 m Verileri: Uygulaman\u305 n hangi \'f6zelliklerinin kullan\u305 ld\u305 \u287 \u305 na dair genel kullan\u305 m verileri\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\fs29\fsmilli14667 \cf4 \strokec4 \uc0\u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 
+\f1 \AppleTypeServices\AppleTypeServicesF65539 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 3. K\uc0\u304 \u350 \u304 SEL B\u304 LG\u304 LER\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 SudokuCrack, a\uc0\u351 a\u287 \u305 daki ki\u351 isel bilgileri TOPLAMAZ:\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 \'95 \uc0\u304 sim, e-posta adresi veya telefon numaras\u305 \
+\'95 Konum bilgileri\
+\'95 Ki\uc0\u351 isel kimlik bilgileri\
+\'95 Sosyal medya hesaplar\uc0\u305 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 Uygulama, cihaz\uc0\u305 n\u305 zda yerel olarak \'e7al\u305 \u351 \u305 r ve ki\u351 isel verilerinizi toplamaz veya sunuculara g\'f6ndermez.\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\fs29\fsmilli14667 \cf4 \strokec4 \uc0\u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 
+\f1 \AppleTypeServices\AppleTypeServicesF65539 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 4. \'dc\'c7\'dcNC\'dc TARAF H\uc0\u304 ZMETLER\u304 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 SudokuCrack, a\uc0\u351 a\u287 \u305 daki \'fc\'e7\'fcnc\'fc taraf hizmetleri kullan\u305 r:\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 \'95 Google Mobile Ads: \'dccretsiz kullan\uc0\u305 c\u305 lar i\'e7in reklam g\'f6sterimi (reklam kimlikleri toplanabilir)\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 \'95 Apple StoreKit: Premium abonelik i\uc0\u351 lemleri (Apple'\u305 n gizlilik politikas\u305  ge\'e7erlidir)\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 Bu hizmetlerin kendi gizlilik politikalar\uc0\u305  vard\u305 r ve bunlardan sorumlu de\u287 iliz.\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\fs29\fsmilli14667 \cf4 \strokec4 \uc0\u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 
+\f1 \AppleTypeServices\AppleTypeServicesF65539 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 5. VER\uc0\u304 LER\u304 N KULLANIMI\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 Toplad\uc0\u305 \u287 \u305 m\u305 z bilgiler \u351 u ama\'e7larla kullan\u305 l\u305 r:\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 \'95 Uygulaman\uc0\u305 n i\u351 levselli\u287 ini sa\u287 lamak\
+\'95 Kullan\uc0\u305 c\u305  deneyimini iyile\u351 tirmek\
+\'95 Oyun istatistiklerini g\'f6stermek\
+\'95 Reklam g\'f6sterimi (\'fccretsiz kullan\uc0\u305 c\u305 lar i\'e7in)\
+\'95 Premium abonelik y\'f6netimi\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\fs29\fsmilli14667 \cf4 \strokec4 \uc0\u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 
+\f1 \AppleTypeServices\AppleTypeServicesF65539 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 6. VER\uc0\u304  G\'dcVENL\u304 \u286 \u304 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 Verilerinizi korumak i\'e7in makul g\'fcvenlik \'f6nlemleri al\uc0\u305 yoruz:\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 \'95 Oyun verileri yaln\uc0\u305 zca cihaz\u305 n\u305 zda saklan\u305 r\
+\'95 Veriler \uc0\u351 ifrelenmi\u351  \u351 ekilde saklan\u305 r (UserDefaults)\
+\'95 D\uc0\u305 \u351  sunuculara veri g\'f6nderilmez\
+\'95 Premium bilgileri Apple'\uc0\u305 n g\'fcvenli sistemleri \'fczerinden i\u351 lenir\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\fs29\fsmilli14667 \cf4 \strokec4 \uc0\u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 
+\f1 \AppleTypeServices\AppleTypeServicesF65539 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 7. VER\uc0\u304  PAYLA\u350 IMI\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 SudokuCrack, ki\uc0\u351 isel verilerinizi \'fc\'e7\'fcnc\'fc taraflarla payla\u351 maz. Ancak:\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 \'95 App Store i\uc0\u351 lemleri i\'e7in Apple'\u305 n hizmetleri kullan\u305 l\u305 r\
+\'95 Reklam g\'f6sterimi i\'e7in Google AdMob kullan\uc0\u305 l\u305 r (reklam kimlikleri)\
+\'95 Yasal zorunluluklar gere\uc0\u287 i bilgiler payla\u351 \u305 labilir\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\fs29\fsmilli14667 \cf4 \strokec4 \uc0\u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 
+\f1 \AppleTypeServices\AppleTypeServicesF65539 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 8. \'c7OCUKLARIN G\uc0\u304 ZL\u304 L\u304 \u286 \u304 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 SudokuCrack, 13 ya\uc0\u351 \u305 n alt\u305 ndaki \'e7ocuklardan bilerek ki\u351 isel bilgi toplamaz. Uygulama, \'e7ocuklar\u305 n gizlili\u287 ini korumak i\'e7in tasarlanm\u305 \u351 t\u305 r.\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 E\uc0\u287 er bir \'e7ocu\u287 un ki\u351 isel bilgilerini toplad\u305 \u287 \u305 m\u305 z\u305  \'f6\u287 renirsek, bu bilgileri derhal sileriz.\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\fs29\fsmilli14667 \cf4 \strokec4 \uc0\u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 
+\f1 \AppleTypeServices\AppleTypeServicesF65539 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 9. VER\uc0\u304  S\u304 LME\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 \uc0\u304 statistiklerinizi ve yerel verilerinizi silmek i\'e7in:\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 \'95 Ayarlar men\'fcs\'fcnden "\uc0\u304 statistikleri S\u305 f\u305 rla" se\'e7ene\u287 ini kullanabilirsiniz\
+\'95 Uygulamay\uc0\u305  cihaz\u305 n\u305 zdan kald\u305 rarak t\'fcm veriler silinir\
+\'95 Premium abonelik bilgileri Apple'\uc0\u305 n sistemleri \'fczerinden y\'f6netilir\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\fs29\fsmilli14667 \cf4 \strokec4 \uc0\u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 
+\f1 \AppleTypeServices\AppleTypeServicesF65539 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 10. POL\uc0\u304 T\u304 KA DE\u286 \u304 \u350 \u304 KL\u304 KLER\u304 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 Bu Gizlilik Politikas\uc0\u305 n\u305  istedi\u287 imiz zaman g\'fcncelleyebiliriz. \'d6nemli de\u287 i\u351 iklikler i\'e7in uygulama i\'e7inde bildirim g\'f6nderebiliriz.\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 De\uc0\u287 i\u351 iklikler, bu sayfada yay\u305 nland\u305 ktan sonra y\'fcr\'fcrl\'fc\u287 e girer.\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\fs29\fsmilli14667 \cf4 \strokec4 \uc0\u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 
+\f1 \AppleTypeServices\AppleTypeServicesF65539 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 11. \uc0\u304 LET\u304 \u350 \u304 M\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 Gizlilik ile ilgili sorular\uc0\u305 n\u305 z i\'e7in l\'fctfen bizimle ileti\u351 ime ge\'e7in:\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 E-posta: privacy@sudokucrack.com\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\fs29\fsmilli14667 \cf4 \strokec4 \uc0\u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 
+\f1 \AppleTypeServices\AppleTypeServicesF65539 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f1\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \strokec4 \'a9 2025 SudokuCrack. T\'fcm haklar\uc0\u305  sakl\u305 d\u305 r.\
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f2\fs32 \AppleTypeServices \cf0 \strokec3 \cell \lastrow\row
+}
